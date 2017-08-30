@@ -6,3 +6,8 @@
 
 ### Scala
 - [Scala](scala/linq-equivalence.md)
+
+## Editor
+
+### VI
+- [vi](editors/vi.md)
