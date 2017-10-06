@@ -1,0 +1,12 @@
+#Visual Studio
+
+## Plugins/Extensions
+
+### Makrdown
+* MarkdownEditor: https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor
+
+### Code Quality
+* Roslyn Security Guard: https://github.com/dotnet-security-guard/roslyn-security-guard
+
+### Editor
+* VsVim: https://marketplace.visualstudio.com/items?itemName=JaredParMSFT.VsVim
